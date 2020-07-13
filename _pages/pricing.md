@@ -1,5 +1,5 @@
 ---
-title: Pricing
+title: Pricing - FREE!
 layout: default
 sidenav: false
 redirect_from:
